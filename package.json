@@ -77,7 +77,7 @@
     "benchmark": "^2.1.4",
     "chalk": "^2.3.2",
     "cross-env": "^5.1.4",
-    "require-inject": "^1.4.2",
+    "require-inject": "1.4.3",
     "standard": "^11.0.1",
     "standard-version": "^4.4.0",
     "tacks": "^1.2.7",
