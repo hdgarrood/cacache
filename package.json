@@ -83,7 +83,7 @@
     "tacks": "^1.2.7",
     "tap": "^12.1.1",
     "weallbehave": "^1.2.0",
-    "weallcontribute": "^1.0.8"
+    "weallcontribute": "^1.0.9"
   },
   "config": {
     "nyc": {
